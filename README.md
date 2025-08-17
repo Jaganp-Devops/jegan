@@ -12,7 +12,7 @@
 
 <!-- Banner with Background Image -->
 <p align="center">
-  <img src="https://i.ibb.co/bQjY3mn/devops-banner.png" alt="DevOps Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jaganp-Devops/Jaganp-Devops/main/assets/devops-banner.png" alt="DevOps Banner" width="100%" />
 </p>
 
 
