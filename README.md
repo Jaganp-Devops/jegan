@@ -1,12 +1,12 @@
-<!-- Animated Header -->
+<!-- Animated Header with DevOps/AWS/Linux Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Jagan!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2496ED,100:FCC624&height=220&section=header&text=Hi%20👋%20I'm%20Jagan&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Jaganp-Devops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&width=500&lines=Cloud+Computing+Student;Linux+%7C+AWS+%7C+DevOps;Aspiring+Cloud+%26+DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast+🚀;Linux+%7C+AWS+%7C+Docker+%7C+Jenkins;Learning+Cloud+Computing+☁️;Passionate+about+Automation+and+Scripting" alt="Typing SVG" />
   </a>
 </p>
 
