@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2496ED,100:FCC624&height=220&section=header&text=Hi%20👋%20I'm%20Jagan&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
----
 
 ## 🌟 About Me
 - ☁️ Currently learning **Linux | AWS | DevOps | Cloud**
