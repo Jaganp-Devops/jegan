@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2496ED,100:FCC624&height=220&section=header&text=Hi%20👋%20I'm%20Jagan&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Top) -->
 <p align="center">
   <a href="https://github.com/Jaganp-Devops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast+🚀;Linux+%7C+AWS+%7C+Docker+%7C+Jenkins;Learning+Cloud+Computing+☁️;Passionate+about+Automation+and+Scripting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast+🚀;Linux+%7C+AWS+%7C+Docker+%7C+Jenkins;Learning+Cloud+Computing+☁️;Passionate+about+Automation+and+Scripting" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,12 +15,13 @@
   <img src="https://raw.githubusercontent.com/Jaganp-Devops/Jaganp-Devops/main/assets/devops-banner.png" alt="DevOps Banner" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Bottom) -->
 <p align="center">
   <a href="https://github.com/Jaganp-Devops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jagan;Linux+%7C+AWS+%7C+DevOps;Cloud+%26+Automation+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jagan;Linux+%7C+AWS+%7C+DevOps;Cloud+%26+Automation+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ---
