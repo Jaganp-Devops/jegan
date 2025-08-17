@@ -13,7 +13,6 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Final year **BCA Student**
 - ☁️ Currently learning **Linux | AWS | DevOps | Cloud**
 - 💡 Passionate about **automation & cloud projects**
 - 🎯 Goal: To land a role as a **Cloud & DevOps Engineer**
@@ -36,21 +35,20 @@
 
 ## 📊 Skill Progress
 
-<b>Linux</b><br>
-<progress value="90" max="100"></progress> 90%  
-<br>
+## 📊 Skill Progress  
 
-<b>AWS</b><br>
-<progress value="75" max="100"></progress> 75%  
-<br>
+**Linux**  
+![Linux](https://img.shields.io/badge/Linux-90%25-brightgreen?style=for-the-badge)  
 
-<b>Docker</b><br>
-<progress value="70" max="100"></progress> 70%  
-<br>
+**AWS**  
+![AWS](https://img.shields.io/badge/AWS-75%25-orange?style=for-the-badge)  
 
-<b>Jenkins</b><br>
-<progress value="60" max="100"></progress> 60%  
-<br>
+**Docker**  
+![Docker](https://img.shields.io/badge/Docker-70%25-blue?style=for-the-badge)  
+
+**Jenkins**  
+![Jenkins](https://img.shields.io/badge/Jenkins-60%25-red?style=for-the-badge)  
+
 
 ---
 
