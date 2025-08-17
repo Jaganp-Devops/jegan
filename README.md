@@ -33,8 +33,6 @@
 
 ---
 
-## 📊 Skill Progress
-
 ## 📊 Skill Progress  
 
 **Linux**  
