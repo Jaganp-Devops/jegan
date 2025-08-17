@@ -10,6 +10,19 @@
   </a>
 </p>
 
+<!-- Banner with Background Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaganp-Devops/Jaganp-Devops/main/assets/devops-banner.png" alt="DevOps Banner" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Jaganp-Devops">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jagan;Linux+%7C+AWS+%7C+DevOps;Cloud+%26+Automation+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+
 ---
 
 ## 🌟 About Me
