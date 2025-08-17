@@ -5,8 +5,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/JAGAN-P">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&width=435&lines=Cloud+Computing+Student;Linux+%7C+AWS+%7C+DevOps;Aspiring+Cloud+%26+DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://github.com/Jaganp-Devops">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&width=500&lines=Cloud+Computing+Student;Linux+%7C+AWS+%7C+DevOps;Aspiring+Cloud+%26+DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,12 +57,37 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaganp-Devops&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaganp-Devops&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaganp-Devops&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Jaganp-Devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaganp-Devops&repo=Linux-Projects&theme=radical" /></a>
+  <a href="https://github.com/Jaganp-Devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaganp-Devops&repo=AWS-Practice&theme=radical" /></a>
+</p>
+
+---
+
+## 📜 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 👀 Visitor Counter  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaganp-Devops&label=Profile%20Views&color=brightgreen&style=flat" alt="views" />
 </p>
 
 ---
@@ -70,13 +95,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/jagan-devops" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jaganp.devops@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Jaganp-Devops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
